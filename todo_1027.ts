@@ -1,4 +1,5 @@
 // todo 这道题看了题解也没看明白
+// todo 跟300有点类似
 function longestArithSeqLength(nums: number[]): number {
     let result = 0;
     const len = nums.length
